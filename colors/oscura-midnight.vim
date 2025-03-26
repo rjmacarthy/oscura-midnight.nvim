@@ -13,7 +13,7 @@ let g:colors_name = "oscura-midnight"
 " Define colors
 let s:bg           = "#0B0B0F"
 let s:fg           = "#E6E6E6"
-let s:comment      = "#46474F"
+let s:comment      = "#6E6F7A"
 let s:keyword      = "#9099A1"
 let s:function     = "#E6E7A3"
 let s:string       = "#E6E6E6"
