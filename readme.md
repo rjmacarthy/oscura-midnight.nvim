@@ -7,6 +7,6 @@ A clean, minimal dark colorscheme for Neovim inspired by the Oscura Midnight VSC
 With lazy.nvim:
 
 ```lua
-{ "rjmacarthy/oscura-midnight.nvim", priority = 1000, config = true }
+{ "rjmacarthy/oscura-midnight.nvim" }
 
 ```
